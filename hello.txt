@@ -5,3 +5,4 @@ modify in try-merge branch add another line
 resolve conflict
 add in try-merge branch
 
+git revert
