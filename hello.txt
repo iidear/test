@@ -1,6 +1,6 @@
 hello,git
 add line
-add another line
+modify in try-merge branch add another line
 
 add in try-merge branch
 
