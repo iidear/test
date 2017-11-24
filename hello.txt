@@ -1,7 +1,0 @@
-hello,git
-add line
-modify in confict add another line
-modify in try-merge branch add another line
-resolve conflict
-add in try-merge branch
-
